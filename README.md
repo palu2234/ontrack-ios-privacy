@@ -61,5 +61,4 @@ If this policy changes materially, the "Last updated" date above will be revised
 
 If you have questions about this privacy policy, contact:
 
-**Michael Palummieri**
-michael.palummieri@outlook.com
+support@corefirststudios.com
