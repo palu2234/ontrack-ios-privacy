@@ -2,7 +2,7 @@
 
 **Last updated: June 14, 2026**
 
-OnTrack ("the app") is a personal workout tracking app developed by Michael Palummieri. This policy explains what data the app accesses, how it is used, and your rights as a user.
+OnTrackiOS ("the app") is a personal workout tracking app developed by Michael Palummieri. This policy explains what data the app accesses, how it is used, and your rights as a user.
 
 ---
 
