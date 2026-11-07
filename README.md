@@ -1,6 +1,6 @@
 # OnTrack – Privacy Policy
 
-**Last updated: October 24, 2026**
+**Last updated: November 7, 2026**
 
 OnTrack ("the app") is a personal workout tracking app for iPhone and Android, developed by Michael Palummieri. This policy explains what data the app accesses, how it is used, and your rights as a user. It covers both OnTrack for iPhone (with its Apple Watch app) and OnTrack for Android.
 
@@ -8,7 +8,7 @@ OnTrack ("the app") is a personal workout tracking app for iPhone and Android, d
 
 ## Data We Collect
 
-OnTrack does not collect, transmit, or store any personal data on our servers. The app has no backend, no user accounts, no advertising, and no analytics. We never receive your workouts, measurements, photos, or health data.
+OnTrack does not collect, transmit, or store any personal data on our servers. The app has no backend, no user accounts, no advertising, and no third-party analytics. We never receive your workouts, measurements, photos, or health data. The only information we receive is what you choose to email us, for example a problem report or feedback (see "Feedback, support and crash reports").
 
 All data you enter — workouts, sets, exercises, templates, plans, notes, body measurements, progress photos, and preferences — is stored on your device. It leaves your device only when you choose to back it up or share it, as described below:
 
@@ -92,9 +92,32 @@ Backups and exported files (CSV or OnTrack backup files) contain all your OnTrac
 
 ---
 
+## Feedback, support and crash reports — Android
+
+OnTrack for Android lets you report a problem, request a feature, share feedback, or ask a question from Settings → Feedback & support. OnTrack has no server, so this works through email:
+
+- OnTrack opens your own email app with a message to support@corefirststudios.com already filled in. Nothing is sent until you press Send in your email app, and you can read and edit everything before you do.
+- You can choose to include **app and device details**: the app version, Android version, phone model, language, time zone, screen size, your OnTrack settings (such as units, whether Pro is unlocked, and whether Health Connect, Google Drive backup, a heart-rate monitor, or Garmin saving are turned on, including the name of your saved heart-rate monitor), and counts from your data (such as how many workouts, templates, and exercises you have, or how many sets use RPE or supersets). They are counts and settings only. Workout names, exercise names, notes, weights, measurements, photos, and health data are never included.
+- If OnTrack crashes, the technical details of that crash (an error description and where in the app's code it happened) are kept in OnTrack's private storage on your phone. The next time you open the app, OnTrack asks once whether you'd like to send a problem report. The details are included only if you choose to send them, and they're never sent automatically. A newer crash replaces the older one, and deleting the app or clearing its storage removes them.
+
+When you email us, we receive your email address, your message, and whatever details you chose to include. We use them only to answer you and to fix and improve OnTrack. We never sell them, never use them for advertising, and never share them with anyone else.
+
+---
+
+## Usage stats (optional) — Android
+
+"Share usage stats" in Settings → Feedback & support is **off unless you turn it on**. While it's on, OnTrack keeps simple counts on your phone: how many times you open the app, on how many days you use it, how often you visit each screen, how often you use tools such as the timer, plate calculator, and guided circuits, and which OnTrack Pro features you tap on while they're locked.
+
+- The counts never include workout content, names, notes, weights, health data, or the time of individual visits.
+- They stay on your phone. They're sent to us only when you choose to send them, either with "Send usage report" or by including them in feedback, using the same email process described above, so you can read them first.
+- They're kept apart from your other data and are not part of Android device backup or device-to-device transfer.
+- Turning "Share usage stats" off immediately erases every count kept so far.
+
+---
+
 ## Third-Party Services
 
-OnTrack does not integrate any third-party analytics, advertising SDKs, crash reporting services, or social media frameworks. The Android app uses Google services only for the optional features above: Health Connect, and Google sign-in with the Google Drive API for Drive backup.
+OnTrack does not integrate any third-party analytics, advertising SDKs, crash reporting services, or social media frameworks. The optional usage stats and crash details described above are kept by OnTrack itself on your phone and reach us only by an email you choose to send. Separately, if you allow it in your device settings, Apple or Google may share anonymous app crash reports with developers. That's handled by Apple or Google under their own privacy policies. The Android app uses Google services only for the optional features above: Health Connect, and Google sign-in with the Google Drive API for Drive backup.
 
 ---
 
@@ -107,7 +130,7 @@ Your data stays on your device until you delete it. You can:
 - Delete backups from iCloud Drive or Google Drive, and remove OnTrack's access as described above.
 - Delete data OnTrack wrote to Apple Health or Health Connect in those apps.
 
-Because we never receive your data, we have nothing stored about you to delete. Contact us if you have any question about your data.
+Because we never receive your app data, we have nothing stored about you to delete. If you've emailed us (for example, a problem report, feedback, or a usage report), we keep that email only as long as we need it to help you and improve OnTrack. Ask us at any time and we'll delete it. Contact us if you have any question about your data.
 
 ---
 
